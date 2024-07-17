@@ -1,1 +1,3 @@
-this is a simple project for git and github
+this is a simple project for git and GitHub
+
+hi everyone
